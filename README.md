@@ -10,14 +10,14 @@ Questions? Feel free to ping [@stephencwan](https://twitter.com/stephencwan)
 Installation
 ------------
 
-AirSonos requires [node.js](http://nodejs.org) v0.10.x installed to run.
+AirSonos requires [node.js](http://nodejs.org) >= v0.10.33 installed to run.
 
 Install via [npm](https://www.npmjs.org)
 ```
 $ npm install airsonos -g
 ```
 
-Platform-specific install note available from [`INSTALL.md`](https://github.com/stephen/airsonos/blob/master/CHANGELOG.md)
+Platform-specific install note available from [`INSTALL.md`](https://github.com/stephen/airsonos/blob/master/INSTALL.md)
 
 Example usage
 -------------
